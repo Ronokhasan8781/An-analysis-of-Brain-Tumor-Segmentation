@@ -98,5 +98,4 @@
 
 ## 📄 License
 
-<img width="1359" height="543" alt="IntroducingTransAddUnetA__BreakthroughDeepLearningModelfor__EnhancedBrainTumorSegmentation2" src="https://github.com/user-attachments/assets/e4f20122-6c42-430b-b929-2a37675b1467" />
 
