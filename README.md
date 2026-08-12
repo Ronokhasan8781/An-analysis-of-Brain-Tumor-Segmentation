@@ -1,43 +1,46 @@
 # Introducing TransAddAttUnet
-        ↓
-## Overview
-        ↓
-## Key Contributions
-        ↓
-## Proposed Architecture
-        ↓
-## Methodology / Workflow
-        ↓
-## Dataset
-        ↓
-## Preprocessing
-        ↓
-## Model Components
-        ├── Transformer Self-Attention (TSA)
-        ├── Global Spatial Attention (GSA)
-        ├── Additional Aggregation Module (AAM)
-        └── Additive Attention
-        ↓
-## Loss Function
-        ↓
-## Experimental Setup
-        ↓
-## Results
-        ↓
-## Comparison with Existing Models
-        ↓
-## Qualitative Segmentation Results
-        ↓
-## Visualization
-        ↓
-## Installation
-        ↓
-## How to Run
-        ↓
-## Repository Structure
-        ↓
-## Citation
-        ↓
-## Acknowledgement
-        ↓
-## License
+
+> A Deep Learning Framework for Enhanced Brain Tumor Segmentation
+
+## 📌 Overview
+
+## ✨ Key Contributions
+
+## 🏗️ Proposed Architecture
+
+## 🔬 Methodology
+
+## 🧠 Model Components
+
+- Transformer Self-Attention (TSA)
+- Global Spatial Attention (GSA)
+- Additional Aggregation Module (AAM)
+- Additive Attention
+
+## 🗂️ Dataset
+
+## ⚙️ Preprocessing
+
+## 📐 Loss Function
+
+## 🧪 Experimental Setup
+
+## 📊 Results
+
+## 📈 Comparison with Existing Models
+
+## 🖼️ Qualitative Segmentation Results
+
+## 🔍 Visualization
+
+## 🚀 Installation
+
+## ▶️ Usage
+
+## 📁 Repository Structure
+
+## 📚 Citation
+
+## 🙏 Acknowledgement
+
+## 📄 License
