@@ -7,6 +7,63 @@
 ## ✨ Key Contributions
 
 ## 🏗️ Proposed Architecture
+## Proposed Architecture
+
+<p align="center">
+  <img src="assets/architecture.png" alt="TransAddAttUnet Architecture" width="100%">
+</p>
+
+### Architecture Workflow
+
+```text
+                         ┌─────────────────────┐
+                         │      MRI Input      │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │    Preprocessing    │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │      Encoder        │
+                         └──────────┬──────────┘
+                                    │
+                         ┌──────────┴──────────┐
+                         ▼                     ▼
+              ┌──────────────────┐  ┌──────────────────┐
+              │ Transformer Self │  │ Global Spatial   │
+              │ Attention (TSA)  │  │ Attention (GSA)  │
+              └────────┬─────────┘  └────────┬─────────┘
+                       └──────────┬──────────┘
+                                  ▼
+                       ┌─────────────────────┐
+                       │        AAM          │
+                       │  Feature Aggregation│
+                       └──────────┬──────────┘
+                                  │
+                                  ▼
+                    ┌───────────────────────────┐
+                    │ Multi-scale Skip Features│
+                    └─────────────┬─────────────┘
+                                  │
+                                  ▼
+                       ┌─────────────────────┐
+                       │      Decoder        │
+                       └──────────┬──────────┘
+                                  │
+                                  ▼
+                       ┌─────────────────────┐
+                       │ Additive Attention  │
+                       └──────────┬──────────┘
+                                  │
+                                  ▼
+                       ┌─────────────────────┐
+                       │  Tumor Segmentation │
+                       └─────────────────────┘
+
+
 
 ## 🔬 Methodology
 
