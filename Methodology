@@ -1,12 +1,3 @@
-## Proposed Architecture
-
-<p align="center">
-  <img src="assets/architecture.png" alt="TransAddAttUnet Architecture" width="100%">
-</p>
-
-### Architecture Workflow
-
-```text
                          ┌─────────────────────┐
                          │      MRI Input      │
                          └──────────┬──────────┘
@@ -53,3 +44,8 @@
                        ┌─────────────────────┐
                        │  Tumor Segmentation │
                        └─────────────────────┘
+
+
+<p align="center">
+  <img src="assets/architecture.png" alt="TransAddAttUnet Architecture" width="100%">
+</p>
