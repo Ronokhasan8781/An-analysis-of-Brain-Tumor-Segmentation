@@ -1,3 +1,4 @@
+<img width="1359" height="543" alt="IntroducingTransAddUnetA__BreakthroughDeepLearningModelfor__EnhancedBrainTumorSegmentation2" src="https://github.com/user-attachments/assets/13b710db-4004-4cc3-b58a-91a574bb7c4e" />
 # Introducing TransAddAttUnet
 
 > A Deep Learning Framework for Enhanced Brain Tumor Segmentation
@@ -7,13 +8,9 @@
 ## ✨ Key Contributions
 
 ## 🏗️ Proposed Architecture
-## Proposed Architecture
 
-<p align="center">
-  <img src="assets/architecture.png" alt="TransAddAttUnet Architecture" width="100%">
-</p>
+<img width="1359" height="543" alt="IntroducingTransAddUnetA__BreakthroughDeepLearningModelfor__EnhancedBrainTumorSegmentation2" src="https://github.com/user-attachments/assets/e4f20122-6c42-430b-b929-2a37675b1467" />
 
-### Architecture Workflow
 
 ```text
                          ┌─────────────────────┐
@@ -101,3 +98,6 @@
 ## 🙏 Acknowledgement
 
 ## 📄 License
+
+<img width="1359" height="543" alt="IntroducingTransAddUnetA__BreakthroughDeepLearningModelfor__EnhancedBrainTumorSegmentation2" src="https://github.com/user-attachments/assets/e4f20122-6c42-430b-b929-2a37675b1467" />
+
