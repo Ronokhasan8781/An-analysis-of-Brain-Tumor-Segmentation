@@ -45,7 +45,5 @@
                        │  Tumor Segmentation │
                        └─────────────────────┘
 
+assets/architecture.png
 
-<p align="center">
-  <img src="assets/architecture.png" alt="TransAddAttUnet Architecture" width="100%">
-</p>
